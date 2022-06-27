@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currenyly learning Python. 
+Currently learning Python. 
 
 Current goal: Telegram bot 
 
